@@ -4,7 +4,8 @@
 
 #include <EEPROM.h>
 
-//by Mu7
+//by Mu
+
 template<class T>
 int writeToEEPROM(int address, T& value)
 {
