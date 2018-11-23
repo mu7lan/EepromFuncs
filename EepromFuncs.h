@@ -4,7 +4,7 @@
 
 #include <EEPROM.h>
 
-//blub
+//blub 2 ggog
 template<class T>
 int writeToEEPROM(int address, T& value)
 {
