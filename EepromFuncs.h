@@ -5,6 +5,7 @@
 #include <EEPROM.h>
 
 //blub 2 ggog
+//FLINK
 template<class T>
 int writeToEEPROM(int address, T& value)
 {
